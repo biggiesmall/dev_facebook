@@ -1,0 +1,12 @@
+{
+    "name": "root/facebook-4iw2",
+    "authors": [
+        {
+            "name": "Yves",
+            "email": "y.skrzypczyk@gmail.com"
+        }
+    ],
+    "require": {
+    	"facebook/graph-sdk": "~5.0"
+    }
+}
